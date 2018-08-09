@@ -1,0 +1,9 @@
+## Goal: To sex label non cell-line GPL570 studies and compare amongst ALE, massiR, and Toker.
+
+### Download sample-level file
+
+### Filter for non-cell line GPL570 samples
+
+### Add a column with sex labels using massiR
+
+### Add another column with sex labels using Toker method
